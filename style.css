@@ -1,0 +1,38 @@
+.app-header{
+    background-color: rgb(34, 27, 46);
+    padding: 1.6em;
+    position:sticky;
+    top: 0%;
+    z-index: 1;
+}
+
+.app-title{
+    color: blanchedalmond;
+    font-weight: bolder;
+    font-size: larger;
+    padding-bottom: 1em;
+}
+
+.header_nav{
+    background-color: bisque;
+}
+
+.gita-content{
+    background-image: linear-gradient(rgb(223, 243, 150),grey);
+    min-height: 100vh;
+}
+
+.slok_details .card-header{
+    
+    background-color: rgb(235, 208, 227);
+}
+
+.slok_details .card-body{
+    
+    background-image: linear-gradient(rgb(235, 208, 227),rgb(209, 248, 170));
+}
+
+.slok_details .card-footer{
+    
+    background-color: rgb(209, 248, 170);
+}
